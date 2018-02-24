@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Champions League</string>
+    <string name="team_a_name">Real Madrid</string>
+    <string name="team_b_name">Barcelona</string>
+    <string name="vs_name">VS.</string>
+    <string name="stadium_name">Santiago Bernabéu</string>
+    <string name="add_button_name">+</string>
+    <string name="score_name">0</string>
+    <string name="statistic_1_name">Goals</string>
+    <string name="statistic_2_name">Total Shots</string>
+    <string name="statistic_3_name">Fouls</string>
+    <string name="statistic_4_name">Yellow Cards</string>
+    <string name="statistic_5_name">Red Cards</string>
+    <string name="reset_button_name">Reset</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_text_size">24sp</dimen>
+    <dimen name="team_text_size">16sp</dimen>
+    <dimen name="stadium_text_size">14sp</dimen>
+    <dimen name="score_text_size">28sp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="landscape_button_text_size">10sp</dimen>
+    <dimen name="statistic_text_size">16sp</dimen>
+    <dimen name="margin_big">16dp</dimen>
+    <dimen name="padding_big">16dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="landscape_padding_small">1dp</dimen>
+</resources>
